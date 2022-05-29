@@ -1,0 +1,17 @@
+Regression :
+    Regression is a method for understanding the relationship between independent variables or features and a dependent variable or outcome.
+    Outcomes can then be predicted once the relationship between independent and dependent variables has been estimated.
+
+usages :
+    In practice, a model will be trained on labelled data to understand the relationship between data features and the dependent variable.
+     By estimating this relationship, the model can predict the outcome of new and unseen data.
+     This could be used to predict missing historic data, and estimate future outcomes too.
+     In a sales environment, an organisation could use regression machine learning to predict the next month’s sales from a number of factors.
+     In a medical environment, an organisation could forecast health trends in the general population over a period of time.
+
+
+Linear Regression :
+Linear Regression is a machine learning algorithm based on supervised learning.
+It performs a regression task. Regression models a target prediction value based on independent variables.
+It is mostly used for finding out the relationship between variables and forecasting.
+Different regression models differ based on – the kind of relationship between dependent and independent variables they are considering, and the number of independent variables getting used.
